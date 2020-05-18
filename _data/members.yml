@@ -1,6 +1,24 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: UCL Institute of Health Informatics Code Club
+  affiliation: UCL
+  github: IHI-Code-Club
+  twitter: ICodingClub
   interests:
     - Programming
     - Open Science
+- name: Institute of Child Health Code Club
+  affiliation: UCL
+  github: UCLichCodeClub
+  twitter: ICodingClub
+  interests:
+    - Programming
+    - Statistics
+    - Reproducibility
+- name: UCL Research IT Services
+  affiliation: UCL
+  github: UCL-RITS
+  twitter: uclrits
+  interests:
+    - HPC
+    - Research Data archive
+    - Research Software development
+    - Training

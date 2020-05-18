@@ -1,22 +1,12 @@
-# UPDATE November 2019
+# UCL's Code Clubs portal
 
-The Mozilla Science Lab was sunsetted in September of 2018.  While we had hoped to find a partnership with another organization to take the Study Group work forward, it did not take place.  Please feel free to use the materials hosted here to build your own Study Groups, though keep in mind that Mozilla is no longer actively supporting this program.
+In here you will find a list of the code clubs available within UCL and their
+activities. This helps to people getting to know each other and to re-use
+material that has been shared before.
 
-Our heartfelt :sparkling_heart: and appreciation to all the Study Group Leads and participants who made this program the success that it was.
+These pages are built using [Mozilla's science Lab Study Groups](https://github.com/mozillascience/studyGroup/).
 
-Much of the work done by the Science Lab has moved on in some way under the Open Leadership & Events Team.  If you're interested in that work, you can see how that work is being continued on [their website](https://foundation.mozilla.org/en/initiatives/open-leadership-events/).
-
----
-
-### [इसे हिंदी में पढ़ें](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-hi.md)
-
-### [Leia isto em Português](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-pt.md)
-
-### [中文版请点这里](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-zh.md)
-
-### [Lee esto en Español](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-es.md)
-
-# Mozilla Study Groups
+## Mozilla Study Groups
 
 Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! From here, we'll set you up with everything you need to start your own study group.
 
@@ -42,10 +32,10 @@ Everything you need to set up your own beautiful Mozilla Study Group website (it
 
 * Fork the Repository [Mozilla Study Group.](https://github.com/mozillascience/studyGroup)
 * Open Terminal (on a Mac) or the equivalent on your machine and type:
-	1. git clone [SSH OR HTTPS CODE FOR studyGroup]
-	2. cd studyGroup/
-	3. jekyll build
-	4. jekyll serve
+	1. `git clone [SSH OR HTTPS CODE FOR studyGroup]`
+	2. `cd studyGroup/`
+	3. `jekyll build`
+	4. `jekyll serve`
 * It shows "Server address". Open it in browser. Yes, Mozilla Study Group is set locally!!
 
 ### It's Broken, I Need Help!!!
