@@ -4,6 +4,9 @@
 .team-member i.fa {
  font-size: 110px;
 }
+.social-media i.fa {
+    font-size: 35px;
+}
 
 @media(max-width: 991px) {
   ul.events {

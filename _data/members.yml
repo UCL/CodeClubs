@@ -1,22 +1,30 @@
 - name: UCL Institute of Health Informatics Code Club
   affiliation: UCL
-  github: IHI-Code-Club
-  twitter: ICodingClub
+  website: https://ucl-ihi.github.io/CodeClub/introduction.html
+  social_media:
+    github: IHI-Code-Club
+    teams: "https://teams.microsoft.com/l/team/19%3a59e3af18c48c48648ad04bfc273fd32b%40thread.tacv2/conversations?groupId=64d58cd3-3e26-465b-ab01-3a0aa5e62ee8&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2"
+    register: "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwmTLVShUkb9Nh40TgmRp95lUQjdSM0JDQzNPMURSRDZWTzFLRjY0WU1QMi4u"
   interests:
     - Programming
     - Open Science
 - name: Institute of Child Health Code Club
   affiliation: UCL
-  github: UCLichCodeClub
-  twitter: ICodingClub
+  social_media:
+    github: UCLichCodeClub
+    twitter: ICodingClub
+    teams: "https://teams.microsoft.com/l/team/19%3abe07347c4ffe41218c8191d5560e34c2%40thread.tacv2/conversations?groupId=d4909213-8e56-42c3-bd13-2da81f6d975f&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2"
   interests:
     - Programming
     - Statistics
     - Reproducibility
 - name: UCL Research IT Services
   affiliation: UCL
-  github: UCL-RITS
-  twitter: uclrits
+  website: https://www.ucl.ac.uk/research-it-services/
+  social_media:
+    github: UCL-RITS
+    twitter: uclrits
+    slack: ucl-programming-hub
   interests:
     - HPC
     - Research Data archive
