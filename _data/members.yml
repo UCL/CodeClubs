@@ -18,18 +18,20 @@
     - Programming
     - Statistics
     - Reproducibility
-- name: UCL Research IT Services
+- name: UCL Advanced Research Computing Centre
   affiliation: UCL
-  website: https://www.ucl.ac.uk/research-it-services/
+  website: https://www.ucl.ac.uk/arc/
   social_media:
-    github: UCL-RITS
-    twitter: uclrits
+    github: UCL-ARC
+    twitter: ucl_arc
     slack: ucl-programming-hub
   interests:
     - HPC
     - Research Data archive
-    - Research Software development
+    - Research Software Engineering
     - Training
+    - Tech Socials
+    - Teaching & Coding Socials
 - name: UCL R User Group
   affiliation: UCL
   website: https://www.ellenwebborn.com/rusergroup/
