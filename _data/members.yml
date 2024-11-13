@@ -30,3 +30,13 @@
     - Research Data archive
     - Research Software development
     - Training
+- name: UCL R User Group
+  affiliation: UCL
+  website: https://www.ellenwebborn.com/rusergroup/
+  social_media:
+    github: ellenwebborn/ucl_r_user_group
+    teams: "https://teams.microsoft.com/l/team/19%3a66ee5dd35b7a40e9bf3ab4fa73fd4dc0%40thread.skype/conversations?groupId=1a8b4943-0c9b-4882-b832-17d5fd0b9d49&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2"
+  interests:
+    - R
+    - Statistics
+    - Reproducibility
