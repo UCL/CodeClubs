@@ -60,3 +60,12 @@
   interests:
     - Reproducibility
     - Open Science
+- name: UCL BioImage Interest Group (BIIG)
+  affiliation: UCL
+  website: https://www.ucl.ac.uk/science-technology-platforms/imaging/ucl-bioimage-interest-group
+  social_media:
+    mailinglist: http://www.mailinglists.ucl.ac.uk/mailman/listinfo/bioimage-interestgroup
+    github: https://github.com/UCL-bioimage-analysis
+  interests:
+    - biological and biomedical image acquisition
+    - bioimaging and bioimage analysis
