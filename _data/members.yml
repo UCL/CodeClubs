@@ -32,6 +32,15 @@
     - Training
     - Tech Socials
     - Teaching & Coding Socials
+- name: UCL Pharmacoepi Data Collaborative
+  affiliation: UCL
+  website: http://pharmacoepi-data-collaborative.github.io/
+  social_media:
+    github: Pharmacoepi-Data-Collaborative
+  interests:
+    - large care databases
+    - Health Research
+    - Electronic Healthcare Records
 - name: UCL R User Group
   affiliation: UCL
   website: https://www.ellenwebborn.com/rusergroup/
