@@ -60,6 +60,9 @@
                             {% if member.social_media.slack %}
                             <a href="https://{{ member.social_media.slack }}.slack.com"><i class="fa fa-slack"></i></a>
                             {% endif %}
+                            {% if member.social_media.mailinglist %}
+                            <a href="{{ member.social_media.mailinglist }}"><i class="fa fa-envelope"></i></a>
+                            {% endif %}
                         </p>
                         </div>
                         {% endif %}
